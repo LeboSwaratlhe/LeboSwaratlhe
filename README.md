@@ -6,10 +6,11 @@ I am a passionate data scientist and ML engineer with experience in Python, R, S
 ---
 
 ### 🌟 About Me  
-- 🎓 Honours in Statistics and undegraduate in Mathematical Statistics 
+- 🎓 BSc Honours in Statistics student and BSc Mathematical Statistics graduate
 - 📊 Exploring Data Science & Machine Learning with ExploreAI academy at sand technologies
 - 🔍 Looking for a Data Science and AI/ML Internship  
 
+---
 
 ### Soft skills 
 - Team leading and Project Management 
@@ -32,20 +33,22 @@ I am a passionate data scientist and ML engineer with experience in Python, R, S
 - 📌 Unsupervised: Recommender System divided into Content-based and collaborative filtering using Singular Value Decomposition, Non-negative Matrix Factorization, Clustering to group anime together based on their similarity in terms of genre, type, episodes, and other features, and Principal Component Analysis(PCA) to identify the most important features that contribute to a user's anime preferences.
 
 ---
-### 📌 Technologies & Tools  
+### Technologies & Tools  
 Jupyter Notebook, Git and GitHub, Virtual Studio code, PowerBI, Trello, Discord, R.  
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
-![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=trello&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="60" height="60"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="60" height="60"/>
+</p>
 
 ---
 
 ### 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile/)  
+[![LinkedIn](www.linkedin.com/in/lebogang-swaratlhe-b67415197)  
 
