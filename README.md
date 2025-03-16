@@ -50,5 +50,5 @@ Jupyter Notebook, Git and GitHub, Virtual Studio code, PowerBI, Trello, Discord,
 ---
 
 ### 📫 Let's Connect  
-[![LinkedIn](www.linkedin.com/in/lebogang-swaratlhe-b67415197)  
+[![LinkedIn](https://www.linkedin.com/in/lebogang-swaratlhe-b67415197/)  
 
