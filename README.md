@@ -1,5 +1,5 @@
 
-# Hi there! 👋  I'm [Lebo]
+# Hi there! 👋  I'm Lebo
 ---
 I am a passionate data scientist and ML engineer with experience in Python, R, SQL, and Power BI.  
 
@@ -13,7 +13,7 @@ I am a passionate data scientist and ML engineer with experience in Python, R, S
 ---
 
 ### Soft skills 
-- Team leading and Project Management 
+- Team lead and Project Management 
 - Time Management
 - Communication and conflict resolution
   
