@@ -20,7 +20,7 @@ I am a passionate data scientist and ML engineer with experience in Python, R, S
 ---
 
 ### 🚀 Projects 
-- 📌 [Water Access Analysis]
+- 📌 Water Access Analysis
 - 📌 Classification: [Analysing New Articles Using Natural Language Processing (NLP) and classification machine learning models to predict articles across various domains, including business, Technology, sports, education and entertainment]
 - 📌 Unsupervised Learning: [Anime Recommender System] Build a collaborative and content-based recommender system for a collection of anime titles, capable of accurately predictiong how a user will rate an anime title they have not views, based on their historical preferences.
 - 📌 Credit Risk model: Buildt a machine learning model to predit the likelihood of a borrower defaulting a loan. 
