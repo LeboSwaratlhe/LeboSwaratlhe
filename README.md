@@ -6,7 +6,7 @@ I am a passionate data scientist and ML engineer with experience in Python, R, S
 ---
 
 ### 🌟 About Me  
-- 🎓 BSc Honours in Statistics student and BSc Mathematical Statistics graduate
+- 🎓 BSc Honours in Statistics and BSc Mathematical Statistics graduate
 - 📊 Exploring Data Science & Machine Learning with ExploreAI academy at sand technologies
 - 🔍 Looking for a Data Science and AI/ML Internship  
 
